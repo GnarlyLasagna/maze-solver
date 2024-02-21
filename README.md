@@ -22,7 +22,6 @@ check python and python3 --version
 brew list - to see modules installed with homebrew
 brew install python-tk@3.9 - to install tkinter
 
-
 pyenv versions
 pyenv uninstall 3.11
 which python
@@ -35,4 +34,3 @@ git version
 Using webi to install GitHub CLI:
 curl -sS https://webi.sh/gh | sh
 
-Ended up downloading Python from python.org because I couldn't get tkinter to work with pyenv. Had to download a python extension for VS Code as well.
